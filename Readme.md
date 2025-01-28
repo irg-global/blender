@@ -1,4 +1,4 @@
-Here i will write all commands which i will learn in the lecture.
+tHere i will write all commands which i will learn in the lecture.
 
 1. We can delete any element by first select it then press X and delete.
 2. We can move element by command G, and then we can move it in any direction X,Y,Z.
@@ -36,3 +36,42 @@ Material is basically the skin of the object.
 ## How we can add text?
 1. Simple go to add there add `text` and just use that text just like other objects. Also remember press tab and you can edit the text and after that press tab again to exit from edit mode.
 2. If we want to add text and the surface is not plain. Then we can simply go to the top and we can change the access to global to local. This will change according to the surface.
+3. We can add any folt inside the blender. Just we have to go to the text tab. There in the regular text section, we can add new font and that fold will atumatically apply.
+
+## How we can apply the images on the model?
+
+1. First of all we will in the layout, then we have to go in the shadow section. There in the below if we press Shift+a then a section appear. There we can search for image texture and then there a section open and there we can select our picture and then we will connect our output to the base color section. we also can add objects and others things from there.
+
+## How to UV unmapping?
+
+First of all we will come in layout section. There we press tab and also we will go in the render mode. Then we press tab and select the object. Then we press u and then we unwrap and smart UV project
+
+## How we add the dana-dar effect.
+
+First of all download a dana-dar image. And then apply it in the normal. And we can control the it using rougfhness and normal effect. And we call it noise texture. It's not looking good. So, we have to insert an normal map between this plugin. 
+
+## Can we control the dana-dar size? Like we want to increase or decrease it.
+
+First of all, we have to go to the edit -> prefrences -> node wrangler. Select it to on. Then come back and inside the shading section where picture is. There press control+T, and a new popup will appear. There we can scale the dana-dar propertie.
+
+## Can we auto smooth a spear. 
+
+Just click on sppear and then right click on the sppear, and choose auto smooth option.
+
+# Till Now, I successfully complete phase 1.
+
+
+
+1. We can copy a light with shirt+T 
+2. We can press g+direct and then. If we hold the control key. Then we systematically move the elements.
+3. If we want to bebel the corners or a surface. Then we have to press shift + control + b.
+
+## Array modifiers
+
+1. When I was build the cube, I travel a lot with the estimated place of the cube. But with the access modifier we can duplicate the objects very easyly. Select the object, then go to modefiers, then add modefier and then from in the search bar write Array. Then a section will appear for editing.
+2. This lecture was on Loop cut. But I did not be able to understand what is it. Control + R for loop cut.
+
+## How to decreae the opacity of a model, so we can see inside objects.
+
+Alt + z
+
